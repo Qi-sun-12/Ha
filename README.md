@@ -84,7 +84,7 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 
 參數優化、學習率與訓練輪次設定
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/17.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/cebf38f2a5deacd53204892edec9896f16f92e01/17.png">
 
 開始訓練
 

@@ -47,7 +47,7 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 
 之後在一系列的視窗中進行登入Google帳號,同時授權對雲端磁碟檔案的讀取與修改,完成後便可實
 現掛載
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/09.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/45b2a5246b5b880bd85209ce5b4ea9add6ea237b/09.png">
 
 可以看到的是,我們谷歌硬碟裡面的資料已經放在./gdrive/MyDrive 這個目錄裡面,我們再去呼叫的時候就會十分方便,目前筆者的筆記本檔案是在Colab Notebooks 資料夾裡面
 

@@ -88,7 +88,7 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 
 開始訓練
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/18.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/badab8dcb911a113dd1bb49ea0d9e669e84ad6d3/18.png">
 
 模型驗證
 

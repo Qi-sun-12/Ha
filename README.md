@@ -64,7 +64,7 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 
 導入相對應的庫
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/12.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/e9d6058b0efbab2054dcb8d54584e4798feb759d/12.png">
 
 神經網路的建立
 

@@ -1,6 +1,7 @@
 # Google Colab使用教學(附帶MINST案例)
 Google Colab 使用教程
-01.png
+<img width="1920" height="1080" alt="01" src="https://github.com/user-attachments/assets/f9db1816-c6b1-4374-9546-18fc444bd275" />
+
 Google Colab是什麼?
 Google Colab是Google免費提供的Jupyter筆電環境,支援CPU、GPU和NPU處理,提供諸如 TensorFlow、pytorch、Kernal等主流深度學習框架的環境。該平台部署在雲端,不影響本地使用,因此再拉比再垃圾的電腦也依舊能夠正常使用。
 Colab官網:https://colab.research.google.com/

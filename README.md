@@ -107,7 +107,7 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 <img src="https://github.com/Qi-sun-12/Ha/blob/b3274bcd01ca03ee3bb1b62e69aecea1721ef5cf/20.png">
 
 切換運行類型後倒入庫的同時讀取設備id
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/21.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/fcdfa1669fe473e62fbcbbea427fdb5914dcd6da/21.png">
 
 神經網路建立
 

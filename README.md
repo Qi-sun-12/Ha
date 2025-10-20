@@ -1,20 +1,26 @@
 # Google Colab使用教學(附帶MINST案例)
 Google Colab 使用教程<img src="">
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/01.png">
+
 Google Colab是什麼?
+
 Google Colab是Google免費提供的Jupyter筆電環境,支援CPU、GPU和NPU處理,提供諸如 TensorFlow、pytorch、Kernal等主流深度學習框架的環境。該平台部署在雲端,不影響本地使用,因此再拉比再垃圾的電腦也依舊能夠正常使用。
 Colab官網:https://colab.research.google.com/
+
 為什麼選擇該平台
 Google Colab為所有的開發者免費提供一定的GPU算力,每個人大約能分到一張特斯拉T4顯卡的算力,該顯卡單精度浮點運算能力大約在2070與1080之間,同時擁有16G顯存,如果自己擁有更好的顯卡(如用著4090的富哥)那用自己的會更好。若自己電腦為3060的,雖然單精度浮點運算能力比T4 強,但出於顯存考量以及自己筆電經常外帶的需求,筆者建議使用該平台會更好。 由於是免費提供的,因此該算力也有限制,即每週最多使用三十小時左右(大概,官方也沒有公佈限額,這是動態資源),同時單次運行不能超過12小時,同時若使用用戶過多的情況下不一定能使用上。
 Colab Pro 訂閱者的使用量仍會受到限制,但相比非訂閱者可享有的限額要多出約一倍。Colab Pro+ 訂閱者還可獲得更高的穩定性。
+
 Google Driver是什麼?
 Google Driver是Google推出的線上儲存服務,類似百度雲端盤,目前有付費和免費兩種模式,免費用戶可享有15G的空間,付費用戶根據方案最多可享有20TB的空間。 Google Driver: https://drive.google.com/drive/
+
 為什麼要使用該雲端盤
 如上文所說,Google Colab是谷歌免費提供的Jupyter筆記本環境,那麼每次關閉該環境,伺服器會自動將之前的所有操作進行清除,若不使用Google Driver,則每次都需要上傳數據集和代碼,大大浪費了時間,因此使用該雲盤,和Colab進行鏈接操作,在使用Colab的時候可以調用網盤的數據
+
 正式教學
+
 筆記本創建
 首先進入Google Driver: https://drive.google.com/drive/
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/01.png">
 點選左上角的新建-更多
 <img src="">
 這時候你已經可以看到Google Colaboratory,若沒有則點擊“關聯更多應用程式”,搜尋“Colab”,安裝第一個即可

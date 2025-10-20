@@ -95,7 +95,7 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 <img src="https://github.com/Qi-sun-12/Ha/blob/d48df8ff2af21c5cfda4ac8fe1101ff2543a4d7c/19.png">
 
 訓練結果如圖
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/20.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/71dfe09bd89df76e3d3463f527ea1caeac7e6541/19.png">
 
 
 具體的程式碼請參考./notebook/CPU版該文件

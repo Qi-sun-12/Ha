@@ -104,38 +104,37 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 如果你已經參考CPU版的程式碼使其成功跑起來的話,你會留意到一件事:為什麼訓練這麼慢? 這時因為我們使用的是CPU去跑,接下來我們就用GPU去跑
 
 首先將更改運行類型,依序點擊程式碼執行程序-更改運行時類型便可以得到以下窗口
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/21.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/b3274bcd01ca03ee3bb1b62e69aecea1721ef5cf/20.png">
 
 切換運行類型後倒入庫的同時讀取設備id
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/22.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/21.png">
 
 神經網路建立
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/23.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/22.png">
 
 資料及下載
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/24.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/23.png">
 
 載入資料集,設定每十張照片為一批,並隨機打亂
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/25.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/24.png">
 
 網路實例化
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/3294ff8711af14602d65358c76c2908a2bac6fa3/26.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/3294ff8711af14602d65358c76c2908a2bac6fa3/25.png">
 
 優化器、學習率、輪次設定
 
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/b3274bcd01ca03ee3bb1b62e69aecea1721ef5cf/26.png">
 開始訓練
 
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/b3274bcd01ca03ee3bb1b62e69aecea1721ef5cf/27.png">
 
 模型測試
 
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/b3274bcd01ca03ee3bb1b62e69aecea1721ef5cf/28.png">
 
 訓練結果如圖
-<img src="">
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/b3274bcd01ca03ee3bb1b62e69aecea1721ef5cf/28.png">

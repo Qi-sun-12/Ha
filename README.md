@@ -21,25 +21,33 @@ Google Driver是Google推出的線上儲存服務,類似百度雲端盤,目前�
 首先進入Google Driver: https://drive.google.com/drive/
 <img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/01.png">
 點選左上角的新建-更多
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/02.png
+">
 這時候你已經可以看到Google Colaboratory,若沒有則點擊“關聯更多應用程式”,搜尋“Colab”,安裝第一個即可
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/03.png
+">
 進入Colab
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/04.png
+">
 若直接點選Colab的網址則為該頁面
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/05.png
+">
 這時你只需要點選左上角的檔案-新筆記本就可以進入相同的頁面
 左邊有五個選項,分別為目錄、尋找和替換、變數、Secret(秘鑰)、文件
 之後點選程式碼執行程序,然後點選變更執行時間類型,在其中硬體加速器部分選擇GPU保存,
 Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/06.png
+">
 ###雲端硬碟掛載由於我們的資料集以及程式碼檔案都放在了Google雲端碟上,因此還需要對Google 雲端硬碟進行掛載在新建立的筆記本中輸入以下程式碼
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/07.png
+">
 運行後便可以獲得該視窗
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/08.png
+">
 之後在一系列的視窗中進行登入Google帳號,同時授權對雲端磁碟檔案的讀取與修改,完成後便可實
 現掛載
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/09.png
+">
 可以看到的是,我們谷歌硬碟裡面的資料已經放在./gdrive/MyDrive 這個目錄裡面,我們再去呼叫的
 時候就會十分方便,目前筆者的筆記本檔案是在Colab Notebooks 資料夾裡面
 
@@ -47,46 +55,57 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 在notebook環境下,你只需要在每一行程式碼前面多加一個「!」(注意是英文的感嘆號),便可以
 像Linux系統裡的終端指令操作那樣進行指令的輸入
 如使用Is指令,便可以得到目前目錄下的路徑
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/10.png
+">
 **以MINST手寫數字資料集作為範例進行訓練**
 
 **CPU版**
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/11.png
+">
 
 導入相對應的庫
 
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/12.png
+">
 
 神經網路的建立
 
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/13.png
+">
 
 資料集下載(若沒有則會自動下載,若有則會自動跳過並讀取到相對應的資料)
 
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/14.png
+">
 
 載入資料集(每十張圖片為一批,並隨機打亂)
 
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/15.png
+">
 
 網路實例化
 
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/16.png
+">
 
 參數優化、學習率與訓練輪次設定
 
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/17.png
+">
 
 開始訓練
 
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/18.png
+">
 
 模型驗證
 
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/19.png
+">
 
 訓練結果如圖
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/20.png
+">
 
 
 具體的程式碼請參考./notebook/CPU版該文件
@@ -95,22 +114,27 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 如果你已經參考CPU版的程式碼使其成功跑起來的話,你會留意到一件事:為什麼訓練這麼慢? 這時因為我們使用的是CPU去跑,接下來我們就用GPU去跑
 
 首先將更改運行類型,依序點擊程式碼執行程序-更改運行時類型便可以得到以下窗口
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/21.png
+">
 
 切換運行類型後倒入庫的同時讀取設備id
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/22.png
+">
 
 神經網路建立
 
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/23.png
+">
 
 資料及下載
 
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/24.png
+">
 
 載入資料集,設定每十張照片為一批,並隨機打亂
 
-<img src="">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/25.png
+">
 
 網路實例化
 

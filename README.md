@@ -111,11 +111,11 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 
 神經網路建立
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/22.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/02d4bed32103c21a7409b7861027dc7096bf7ad7/22.png">
 
 資料及下載
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/23.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/02d4bed32103c21a7409b7861027dc7096bf7ad7/23.png">
 
 載入資料集,設定每十張照片為一批,並隨機打亂
 

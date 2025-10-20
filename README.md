@@ -20,13 +20,15 @@ Google Driver是Google推出的線上儲存服務,類似百度雲端盤,目前�
 **筆記本創建**
 首先進入Google Driver: https://drive.google.com/drive/
 <img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/01.png">
+
 點選左上角的新建-更多
 <img src="https://github.com/Qi-sun-12/Ha/blob/098fe6ec799c24a7a607957cd1ab262ef833597e/02.png">
+
 這時候你已經可以看到Google Colaboratory,若沒有則點擊“關聯更多應用程式”,搜尋“Colab”,安裝第一個即可
 <img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/03.png">
+
 進入Colab
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/04.png
-">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/04.png">
 若直接點選Colab的網址則為該頁面
 <img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/05.png
 ">

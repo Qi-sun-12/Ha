@@ -76,7 +76,7 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 
 載入資料集(每十張圖片為一批,並隨機打亂)
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/15.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/c8bee0b39c5ef916e276eb64673137962a3c4fd2/15.png">
 
 網路實例化
 

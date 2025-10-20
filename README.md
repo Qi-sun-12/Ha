@@ -60,8 +60,7 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 **以MINST手寫數字資料集作為範例進行訓練**
 
 **CPU版**
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/11.png
-">
+<img src="https://github.com/Qi-sun-12/Ha/blob/45b2a5246b5b880bd85209ce5b4ea9add6ea237b/11.png">
 
 導入相對應的庫
 

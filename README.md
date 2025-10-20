@@ -41,22 +41,21 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 
 ###雲端硬碟掛載由於我們的資料集以及程式碼檔案都放在了Google雲端碟上,因此還需要對Google 雲端硬碟進行掛載在新建立的筆記本中輸入以下程式碼
 <img src="https://github.com/Qi-sun-12/Ha/blob/9b40c2239c53e64ef3fd174e9b30107f53941969/06.png">
+
 運行後便可以獲得該視窗
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/08.png
-">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/08.png">
 之後在一系列的視窗中進行登入Google帳號,同時授權對雲端磁碟檔案的讀取與修改,完成後便可實
 現掛載
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/09.png
-">
-可以看到的是,我們谷歌硬碟裡面的資料已經放在./gdrive/MyDrive 這個目錄裡面,我們再去呼叫的
-時候就會十分方便,目前筆者的筆記本檔案是在Colab Notebooks 資料夾裡面
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/09.png">
+
+可以看到的是,我們谷歌硬碟裡面的資料已經放在./gdrive/MyDrive 這個目錄裡面,我們再去呼叫的時候就會十分方便,目前筆者的筆記本檔案是在Colab Notebooks 資料夾裡面
 
 **命令列使用**  
 在notebook環境下,你只需要在每一行程式碼前面多加一個「!」(注意是英文的感嘆號),便可以
 像Linux系統裡的終端指令操作那樣進行指令的輸入
 如使用Is指令,便可以得到目前目錄下的路徑
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/10.png
-">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/10.png">
+
 **以MINST手寫數字資料集作為範例進行訓練**
 
 **CPU版**

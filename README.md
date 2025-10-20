@@ -55,7 +55,7 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 在notebook環境下,你只需要在每一行程式碼前面多加一個「!」(注意是英文的感嘆號),便可以
 像Linux系統裡的終端指令操作那樣進行指令的輸入
 如使用Is指令,便可以得到目前目錄下的路徑
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/10.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/cebb374acb603820947a7ffd98cf3336f5a7f8e4/10.png">
 
 **以MINST手寫數字資料集作為範例進行訓練**
 

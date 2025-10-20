@@ -37,10 +37,10 @@ Google Driver是Google推出的線上儲存服務,類似百度雲端盤,目前�
 左邊有五個選項,分別為目錄、尋找和替換、變數、Secret(秘鑰)、文件
 之後點選程式碼執行程序,然後點選變更執行時間類型,在其中硬體加速器部分選擇GPU保存,
 Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/06.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/07.png">
 
 ###雲端硬碟掛載由於我們的資料集以及程式碼檔案都放在了Google雲端碟上,因此還需要對Google 雲端硬碟進行掛載在新建立的筆記本中輸入以下程式碼
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/07.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/06.png">
 運行後便可以獲得該視窗
 <img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/08.png
 ">

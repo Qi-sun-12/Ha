@@ -44,6 +44,7 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 
 運行後便可以獲得該視窗
 <img src=".https://github.com/Qi-sun-12/Ha/blob/5b23c403ac2121f294c429299da12e0fef1cd9fe/08.png">
+
 之後在一系列的視窗中進行登入Google帳號,同時授權對雲端磁碟檔案的讀取與修改,完成後便可實
 現掛載
 <img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/09.png">

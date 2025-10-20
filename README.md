@@ -119,22 +119,22 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 
 載入資料集,設定每十張照片為一批,並隨機打亂
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/24.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/02d4bed32103c21a7409b7861027dc7096bf7ad7/24.png">
 
 網路實例化
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/3294ff8711af14602d65358c76c2908a2bac6fa3/25.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/02d4bed32103c21a7409b7861027dc7096bf7ad7/25.png">
 
 優化器、學習率、輪次設定
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/b3274bcd01ca03ee3bb1b62e69aecea1721ef5cf/26.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/02d4bed32103c21a7409b7861027dc7096bf7ad7/26.png">
 開始訓練
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/b3274bcd01ca03ee3bb1b62e69aecea1721ef5cf/27.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/02d4bed32103c21a7409b7861027dc7096bf7ad7/27.png">
 
 模型測試
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/b3274bcd01ca03ee3bb1b62e69aecea1721ef5cf/28.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/02d4bed32103c21a7409b7861027dc7096bf7ad7/28.png">
 
 訓練結果如圖
-<img src="https://github.com/Qi-sun-12/Ha/blob/b3274bcd01ca03ee3bb1b62e69aecea1721ef5cf/28.png">
+<img src="https://github.com/Qi-sun-12/Ha/blob/02d4bed32103c21a7409b7861027dc7096bf7ad7/28.png">
